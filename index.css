@@ -1,0 +1,27 @@
+.para {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    line-height: 1.6em;
+    text-align: justify;
+    max-width: 600px;
+    white-space: initial !important;
+}
+.framer-text{
+    white-space: initial !important;
+    /* padding-left: 20px; */
+    margin: 30px;
+}
+.f{
+    margin-left: 40px;
+}
+.g{
+    margin-left: 33px;
+}
+.h{
+    margin-left: 76px;
+}
+.l{
+    margin: 0px !important;
+}
